@@ -39,7 +39,7 @@ http://localhost:9090/targets
 
 http://localhost:3000
 
-![image](https://user-images.githubusercontent.com/68746298/197975815-2df2a14d-24bb-4d08-ac5b-da59a6034f37.png)
+![image](https://user-images.githubusercontent.com/68746298/198000792-f47b4872-9f67-4bfc-b746-fd789b715483.png)
 
 Далее необходимо добавить в Grafana новый источник данных - Prometheus, который уже собирает метрики базы данных Postgress с помощью Postgress-Exporter
 
