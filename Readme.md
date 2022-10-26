@@ -51,6 +51,25 @@ http://localhost:3000
 
 Перед сохранением можно протестировать работоспособность источника (Save&Test) 
 
+Осталось только импортировать соответвующий dashboard для отображения метрик,которые  можно найти - 
+
+https://grafana.com/grafana/dashboards/?search=postgres
+
+Далее неоходимо импортировать понравившийся 
+
+![image](https://user-images.githubusercontent.com/68746298/197983168-516379ab-d194-4aef-b705-f674987db186.png)
+
+указав соответсвующий ID 
+
+![image](https://user-images.githubusercontent.com/68746298/197983473-ad3c8edd-c156-42a0-8535-8275104d0d15.png)
+
+и источник данных.
+
+![image](https://user-images.githubusercontent.com/68746298/197984087-62fa3a96-5709-40d9-b667-4d0dbb064437.png)
+
+
+Осталось открыть импортированный Dashboard
+
 
 
 
