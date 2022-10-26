@@ -7,5 +7,6 @@
  - postgress-exporter
  - prometheus
  - grafana
- ![image](https://user-images.githubusercontent.com/68746298/197962153-fbe0978b-f571-45c9-b9be-12acec6a31ad.png)
+![image](https://user-images.githubusercontent.com/68746298/197963633-0d9cdfd0-16c1-455f-9a99-b8f72101c17e.png)
+
 
