@@ -9,13 +9,13 @@ services:
     ports:
       - 9090:9090
     volumes:
-      - ~/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ~/postgress/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro
   postgres:
-    image: postgres:12
+    image: postgres:14
     ports:
       - 5432:5432
     volumes:
-      - ~/backup:/var/lib/postgresql/data
+      - ~/postgress/backup:/var/lib/postgresql/data
     environment:
       POSTGRES_PASSWORD: postgrespassword
       POSTGRES_DB: shop
