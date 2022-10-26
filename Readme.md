@@ -10,7 +10,7 @@
  
 ![image](https://user-images.githubusercontent.com/68746298/197963633-0d9cdfd0-16c1-455f-9a99-b8f72101c17e.png)
 
-Предварительно, в каталоге с %USERPROFILE% следует создать директорию 
+Предварительно, в каталоге  %USERPROFILE% следует создать директорию 
 
 %USERPROFILE%\postgress\prometheus\
 и скопировать туда файл prometheus.yml 
