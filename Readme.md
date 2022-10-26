@@ -41,6 +41,16 @@ http://localhost:3000
 
 ![image](https://user-images.githubusercontent.com/68746298/197975815-2df2a14d-24bb-4d08-ac5b-da59a6034f37.png)
 
+Далее необходимо добавить в Grafana новый источник данных - Prometheus, который уже собирает метрики базы данных Postgress с помощью Postgress-Exporter
+
+![image](https://user-images.githubusercontent.com/68746298/197978044-e4bc67e1-2b1a-46c7-a0d9-0ff8244d0111.png)
+
+В строке соединения (HTTP:URL) необходимо указать адрес http://prometheus:9090  
+
+![image](https://user-images.githubusercontent.com/68746298/197980070-976c210b-5ad1-4c01-811a-2e9cae3d2f48.png)
+
+Перед сохранением можно протестировать работоспособность источника (Save&Test) 
+
 
 
 
