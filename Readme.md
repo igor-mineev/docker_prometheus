@@ -27,4 +27,22 @@ docker-compose up
 
 База старовала, стек готов
 
-![image](https://user-images.githubusercontent.com/68746298/197972176-0f902767-2910-44c7-937a-aeb0121c96ea.png)
+![image](https://user-images.githubusercontent.com/68746298/197974385-e0f67155-9f5a-4370-be01-194e6ef91b4d.png)
+
+Можно проверить работу postrgess-exporter
+
+http://localhost:9090/targets
+
+![image](https://user-images.githubusercontent.com/68746298/197975032-aedce9fe-ae2e-41af-9e6b-cb8ca6ba1b74.png)
+
+Можно переходить к визуализации метрик, пользователь admin/admin
+
+http://localhost:3000
+
+![image](https://user-images.githubusercontent.com/68746298/197975815-2df2a14d-24bb-4d08-ac5b-da59a6034f37.png)
+
+
+
+
+Создано по мотивам публикации
+https://dev.to/nelsoncode/how-to-monitor-posgresql-with-prometheus-and-grafana-docker-24c8
