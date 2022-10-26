@@ -33,13 +33,13 @@ docker-compose up
 
 http://localhost:9090/targets
 
-![image](https://user-images.githubusercontent.com/68746298/197975032-aedce9fe-ae2e-41af-9e6b-cb8ca6ba1b74.png)
+![image](https://user-images.githubusercontent.com/68746298/198000792-f47b4872-9f67-4bfc-b746-fd789b715483.png)
 
 Можно переходить к визуализации метрик, пользователь admin/admin
 
 http://localhost:3000
 
-![image](https://user-images.githubusercontent.com/68746298/198000792-f47b4872-9f67-4bfc-b746-fd789b715483.png)
+![image](https://user-images.githubusercontent.com/68746298/198002813-bff4cbac-6f6c-4fb1-a16d-12ac8e7ba505.png)
 
 Далее необходимо добавить в Grafana новый источник данных - Prometheus, который уже собирает метрики базы данных Postgress с помощью Postgress-Exporter
 
