@@ -61,7 +61,7 @@ https://grafana.com/grafana/dashboards/?search=postgres
 
 указав соответсвующий ID 
 
-![image](https://user-images.githubusercontent.com/68746298/197983473-ad3c8edd-c156-42a0-8535-8275104d0d15.png)
+![image](https://user-images.githubusercontent.com/68746298/197991358-f3c3a26d-8e52-40fe-b815-b21a475ad3ab.png)
 
 и источник данных.
 
@@ -70,6 +70,7 @@ https://grafana.com/grafana/dashboards/?search=postgres
 
 Осталось открыть импортированный Dashboard
 
+![image](https://user-images.githubusercontent.com/68746298/197992170-4d1d4e9b-3b69-4efc-b549-6ed2e2c93b4d.png)
 
 
 
